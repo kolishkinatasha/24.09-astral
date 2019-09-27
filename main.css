@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(245, 197, 219);
+}
+
+form {
+    margin: auto;
+    display: flex;
+    width: 300px;
+    height: 300px;
+    flex-wrap: wrap;    
+    /* border: 1px solid rgb(228, 37, 37); */
+}
+label {
+    text-align: center; 
+    /* width: 220px;
+    margin-right:10p x; */
+}
+
+#button {
+    display: flex;
+    margin: auto;
+    /* margin-top: 10px;     */
+    margin-bottom: 30px;
+}
+
+li {
+    list-style-type: none;
+    width: 600px;
+    }
+
+ul {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
